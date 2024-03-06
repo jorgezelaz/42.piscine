@@ -1,1 +1,1 @@
-Mis primeros pasos por este mundo de la mano de C 🐣
+My first steps with C 🐣
